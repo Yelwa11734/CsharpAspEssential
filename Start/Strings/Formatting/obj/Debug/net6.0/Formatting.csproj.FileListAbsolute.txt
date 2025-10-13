@@ -1,0 +1,15 @@
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.exe
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.deps.json
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.dll
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.pdb
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.sourcelink.json
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.dll
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.pdb
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+C:\Users\THINKPAD T420S\Downloads\Start\Start\Strings\Formatting\obj\Debug\net6.0\ref\Formatting.dll
