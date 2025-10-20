@@ -1,0 +1,15 @@
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.exe
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.deps.json
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.runtimeconfig.json
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.dll
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.pdb
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfoInputs.cache
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.sourcelink.json
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.dll
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\refint\FormatNumbers.dll
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
+C:\Users\THINKPAD T420S\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll
